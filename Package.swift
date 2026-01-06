@@ -6,6 +6,7 @@ let package = Package(
     platforms: [
         .iOS(.v12),
         .macOS(.v13),
+        .macCatalyst(.v13),
         .tvOS(.v15),
         .visionOS(.v1),
     ],
