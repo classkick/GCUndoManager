@@ -1,0 +1,5 @@
+module GCUndoManager {
+  umbrella header "GCUndoManager.h"
+  export *
+  module * { export * }
+}
